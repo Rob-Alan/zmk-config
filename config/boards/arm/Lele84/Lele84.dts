@@ -53,6 +53,12 @@
 	status = "okay";
 };
 
+&i2c0 {
+	compatible = "nordic,nrf-twi";
+	sda-pin = <15>;
+	scl-pin = <17>;
+};
+
 &spi0 {
 	// Underglow data: P0.31 
   compatible = "nordic,nrf-spim";

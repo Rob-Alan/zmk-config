@@ -1,0 +1,227 @@
+[33mcommit 0536d4b37a43545ac3d1891a7356ac5a466c6c9c[m[33m ([m[1;36mHEAD -> [m[1;32mLele84[m[33m, [m[1;31morigin/Lele84[m[33m)[m
+Author: ‘Rocinante’ <‘2498545982@qq.com’>
+Date:   Fri Mar 11 14:16:41 2022 +0800
+
+    fix led pin
+
+[33mcommit 2e1b8462e423c9afa7b2bbd39682fdf2eed822ae[m
+Author: ‘Rocinante’ <‘2498545982@qq.com’>
+Date:   Wed Mar 9 21:37:36 2022 +0800
+
+    v2 move col6 to pin 0.09
+
+[33mcommit dcd045cbc7cec7eb3a7b9542c638d555c2340f8c[m
+Author: ‘Rocinante’ <‘2498545982@qq.com’>
+Date:   Wed Mar 9 21:03:03 2022 +0800
+
+    init
+
+[33mcommit b3137559820648df30e9fa5ed9aac3cfbe01cdcd[m
+Author: “WSTRN” <1533225965@qq.com>
+Date:   Fri Aug 13 21:00:18 2021 +0800
+
+    Lele84
+
+[33mcommit a84e8a17d78408cdd0ef106cf1ca891fef4676e3[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sat Aug 7 17:06:25 2021 +0800
+
+    build
+
+[33mcommit 1199c35c1e81a91f669b56533fbb090a596fabad[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sat Aug 7 17:06:10 2021 +0800
+
+    Lele884
+
+[33mcommit d65f4e625ebcfe37f3362c72230ada0eb6289204[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sat Aug 7 16:43:45 2021 +0800
+
+    Lele84
+
+[33mcommit 259b923880bdcc7d52cf87043fff9057471c910d[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sat Aug 7 16:31:35 2021 +0800
+
+    Lele84
+
+[33mcommit 725855f704239511770398108686117e9dbc3ec6[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sat Aug 7 16:29:36 2021 +0800
+
+    LEle84
+
+[33mcommit f7cfa2ac810861187e484451500a24ef53088642[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sat Aug 7 16:16:32 2021 +0800
+
+    Lele84
+
+[33mcommit 66970c6f3b35015e4defba04cf33f009f89a935a[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sat Aug 7 16:08:20 2021 +0800
+
+    Lele84
+
+[33mcommit c3e08709ab390b5b9e67576a692c7d71c6523f6b[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sat Aug 7 16:06:20 2021 +0800
+
+    Lele84v2
+
+[33mcommit 62cca4a9e3a2285bc9493e7a5580586d65be56f9[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sat Aug 7 15:50:55 2021 +0800
+
+    Lele84v2
+
+[33mcommit b7cf759dfa851aa34ce93df3964c6139f4cf6c4d[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sat Aug 7 15:25:35 2021 +0800
+
+    Lele84v2
+
+[33mcommit 95f714b863ffb5c2fbe2ffac19cbe0dbdc70a815[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sat Aug 7 14:11:24 2021 +0800
+
+    Lele84v1
+
+[33mcommit f4922f39489a616d78b9da425bb95ca1f35912e1[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sat Aug 7 13:17:50 2021 +0800
+
+    Lele84v1
+
+[33mcommit 48b552195d9e786b710662d8f146d393a2505d15[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Wed Aug 4 17:58:05 2021 +0800
+
+    Lele84
+
+[33mcommit fe297c3655d2aa3f4f4a66fa577226151787fffb[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Wed Aug 4 17:51:50 2021 +0800
+
+    Lele84
+
+[33mcommit edd2e426795810a7ccb7229a188183f571fbc52f[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Wed Jul 28 22:07:40 2021 +0800
+
+    Lele84
+
+[33mcommit 8e267f5533ede8b1d9be2e3897aab7ae3953c1e1[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Wed Jul 28 21:16:21 2021 +0800
+
+    Lele84
+
+[33mcommit efe8faa3b050a98a56b26c4b18c27ae5afa20500[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sun Jul 25 18:31:16 2021 +0800
+
+    fix?
+
+[33mcommit dcde2f54b37519dd9db2ee94cff94340bc87ec7b[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sun Jul 25 18:17:51 2021 +0800
+
+    Lele84
+
+[33mcommit 154fbd39f42b194d3de23763d48495f8b621cd67[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sun Jul 25 18:06:35 2021 +0800
+
+    Lele84
+
+[33mcommit 7d81eed88b6445d2b09d9c72333d2e44a8714ad0[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sun Jul 25 18:00:34 2021 +0800
+
+    Lele84
+
+[33mcommit 528af6612e41555ccea86dc72aaba4d9e2e56a9b[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sun Jul 25 17:57:42 2021 +0800
+
+    Lele84
+
+[33mcommit eb98a2e672c22353be2b60e79c20bb6cb2642b37[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sun Jul 25 16:42:49 2021 +0800
+
+    lele84
+
+[33mcommit b6d19f9b7b23ce7132734492a22ea3a76eaa53a7[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Sun Jul 25 16:12:53 2021 +0800
+
+    lele84
+
+[33mcommit 6b82bd6bf7c6dc7e8a556a24a9e636511688823b[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Thu May 13 21:05:47 2021 +0800
+
+    nrfmicro test
+
+[33mcommit f945b61709533c0fa7540ed4c54580be30b2bf98[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Thu May 13 20:31:07 2021 +0800
+
+    nrfmicro13
+
+[33mcommit f5020104c0810d47364425fcc40a73c5fe4ab4e5[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Thu May 13 20:24:36 2021 +0800
+
+    fix?
+
+[33mcommit c795702dfaddbf18a1e6cac96b387d946138f995[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Thu May 13 20:20:50 2021 +0800
+
+    fix?
+
+[33mcommit 7690a57c3c779d70086eb7b3a14e9caee307ee89[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Thu May 13 18:50:20 2021 +0800
+
+    nrfmicro m60
+
+[33mcommit ac7e7269189b8d3c0753dc17cf7321f844f4eead[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Thu May 13 12:47:09 2021 +0800
+
+    Tsquash config
+
+[33mcommit 67ffc5fa1e31607966c277e4a40892ccc10c0940[m
+Author: WSTRN <1533225965@qq.com>
+Date:   Thu May 13 12:38:40 2021 +0800
+
+    lily58
+
+[33mcommit 961cb971f5061bf1dea67fb1c2c70612a869b5fa[m
+Author: Pete Johanson <peter@peterjohanson.com>
+Date:   Mon Dec 14 23:54:23 2020 -0500
+
+    fix: Reference GH workspace using env. variable.
+
+[33mcommit fd66aec4003c0ccfcf6a590a43f0a4b3ba193f94[m
+Author: Pete Johanson <peter@peterjohanson.com>
+Date:   Mon Dec 14 23:06:46 2020 -0500
+
+    refactor: Move to updated docker image/use.
+
+[33mcommit b9628ebccffcff7188a250149aaca59dd36e8680[m
+Author: Pete Johanson <peter@peterjohanson.com>
+Date:   Tue Nov 10 00:08:19 2020 -0500
+
+    fix: Add temp DTS file output step.
+
+[33mcommit 9af742677c720590087de64ec33457f89bc0f9da[m
+Author: Richard Jones <rich@linxplicable.org>
+Date:   Sun Sep 6 15:41:36 2020 +0100
+
+    initial commit

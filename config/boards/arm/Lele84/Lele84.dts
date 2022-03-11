@@ -57,7 +57,7 @@
 	// Underglow data: P0.31 
   compatible = "nordic,nrf-spim";
   status = "okay";
-  mosi-pin = <31>;
+  mosi-pin = <22>;
   // Unused pins, needed for SPI definition, but not used by the ws2812 driver itself.
   sck-pin = <28>;
   miso-pin = <30>;
